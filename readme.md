@@ -1,6 +1,6 @@
 ### 👋 Hi! Nice to see you!
 
-Welcome to my page! I'm Jay, Full Stack devoper from Taiwan <img src="https://cdn-icons-png.flaticon.com/512/24/24170.png" width="13"/> <b>Taiwan</b>
+Welcome to my page! I'm Jay, Full Stack devoper from <img src="https://cdn-icons-png.flaticon.com/512/24/24170.png" width="13"/> <b>Taiwan</b>
 
 
 ### 📚 All Skills
@@ -9,7 +9,7 @@ Welcome to my page! I'm Jay, Full Stack devoper from Taiwan <img src="https://cd
 
 ### 💻 Activity Graph
 
-[![FLameSunRisE's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FLameSunRisE)](https://github.com/FLameSunRisE/github-readme-activity-graph)
+[![FLameSunRisE's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FLameSunRisE&theme=github)](https://github.com/FLameSunRisE/github-readme-activity-graph)
 
 ### 😜 Commit Stats
 
